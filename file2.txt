@@ -1,0 +1,13 @@
+this is the test file 
+another new line text
+the third line 
+forth line
+fifth
+sixth
+seventh
+
+add so on....
+
+edit content from IDEA 2017.1.3, it's quite good!
+
+now add content on DEV branch!
